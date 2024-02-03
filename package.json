@@ -5,6 +5,9 @@
   "author": "Luann",
   "license": "MIT",
   "private": false,
+  "scripts": {
+	"start": "ts-node-dev ./src/index.ts"
+  },
   "dependencies": {
     "express": "^4.18.2"
   },
